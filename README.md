@@ -1,6 +1,8 @@
 # Waveguide equivalent circuit
 
-Theses notebooks describe a problem with representation of the waveguide as an equivalent circuit.
+These notebooks describe a problem with representation of the waveguide as an equivalent circuit.
+
+File [illustrations.ipynb](./illustrations.ipynb) shows the sections of the accelerating structure and the equivalent circuits for them.
 
 In file [matrix.ipynb](./matrix.ipynb) representation of the waveguide as an equivalent circuit is derived.
 
